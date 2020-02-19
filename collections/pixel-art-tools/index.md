@@ -1,17 +1,1 @@
----
-items:
- - aseprite/aseprite/
- - piskelapp/piskel/
- - jvalen/pixel-art-react/
- - maierfelix/poxi/
- - gmattie/Data-Pixels/
- - vsmode/pixel8
- - jennschiffer/make8bitart
- - kitao/pyxel
- - jackschaedler/goya
- - cloudhead/rx
-display_name: Pixel Art Tools
-created_by: leereilly
-image: pixel-art-tools.png
----
-Creating pixel art for fun or animated sprites for a game? The digital artist in you will love these apps and tools!
+No1 "{https://etherscan.github.io/ethvalidate/token?a=0x31a240648e2baf4f9f17225987f6f53fceb1699a&c=0x9041fe5b3fdea0f5e4afdc17e75180738d877a01}
